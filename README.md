@@ -2,8 +2,6 @@
 
 A deep learning project that trains a **CNN** on the [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset and deploys it as a **Streamlit** web app inside a **Docker** container.
 
-> 📺 **Video Guide**: [Step-by-step walkthrough on YouTube](https://youtu.be/sb2tm3pu17k)
-
 ---
 
 ## 📁 Project Structure
